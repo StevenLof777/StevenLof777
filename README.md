@@ -1,6 +1,6 @@
-![Banner](./images/github-banner.png)
+<img src="./images/github-banner.png" width=100%>
 
-### Hi there 👋
+# Hi there 👋
 
 
 My name is Steven Lofquist (he/him), I am currently attending the Georgia Tech Coding Boot Camp and will be looking for work soon!
@@ -9,7 +9,7 @@ My name is Steven Lofquist (he/him), I am currently attending the Georgia Tech C
 
 ## 👨‍💻 Here are my skills 
 
-
+<p>
 <img src=https://img.shields.io/badge/Code-JavaScipt-yellow/>
 <img src=https://img.shields.io/badge/Code-React-yellow/>
 <img src=https://img.shields.io/badge/Code-MySQL-yellow/>
@@ -17,6 +17,7 @@ My name is Steven Lofquist (he/him), I am currently attending the Georgia Tech C
 <img src=https://img.shields.io/badge/Code-CSS-yellow/>
 <img src=https://img.shields.io/badge/ORM-Sequelize-yellow/>
 <img src=https://img.shields.io/badge/Shell-Bash-yellow/>
+<p>
 
 ---
 ## Contact me
