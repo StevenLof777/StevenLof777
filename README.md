@@ -1,9 +1,9 @@
-<img src="./images/github-banner.png" width=100%>
+<img src="./images/gh-banner.png" width=100%>
 
-# Hi there 👋
+## Hi there 👋
+---
 
-
-My name is Steven Lofquist (he/him), I am currently attending the Georgia Tech Coding Boot Camp and will be looking for work soon!
+My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC programmer with extensive experience in coding and making ideas come to life. Certificate from Georgia Tech Professional Education in full stack web technologies, including and not limited to JavaScript, CSS, HTML, and Node.js. Fascinated by this ever-evolving sector and creating products that people across the globe may use. My good attitude and willingness to be a team player, combined with sharp technical skills makes me a valuable asset to any engineering team.
 
 ---
 
@@ -12,16 +12,23 @@ My name is Steven Lofquist (he/him), I am currently attending the Georgia Tech C
 <p>
 <img src=https://img.shields.io/badge/Code-JavaScipt-yellow/>
 <img src=https://img.shields.io/badge/Code-React-yellow/>
-<img src=https://img.shields.io/badge/Code-MySQL-yellow/>
+<img src=https://img.shields.io/badge/Database-MySQL-yellow/>
+<img src=https://img.shields.io/badge/Database-MongDB-yellow/>
+<img src=https://img.shields.io/badge/Framework-Express-yellow/>
 <img src=https://img.shields.io/badge/Code-CSS-yellow/>
 <img src=https://img.shields.io/badge/Code-CSS-yellow/>
-<img src=https://img.shields.io/badge/ORM-Sequelize-yellow/>
+<img src=https://img.shields.io/badge/ORM-Sequelize-yellow/> 
+<img src=https://img.shields.io/badge/ODM-Mongoose-yellow/> 
 <img src=https://img.shields.io/badge/Shell-Bash-yellow/>
 <p>
 
 ---
-## Contact me
+## :nerd_face: About me
+* I'm currently working on my first solo full stack application using React and MySQL 
+* I'm really interested in visual libraries such as Three.js and P5.js
+* I really enjoyed working with the aztro API when me and my group made our app Dope Horoscope
 
+
+## How to Find me: 
 * [LinkedIn](https://www.linkedin.com/in/steven-lofquist-49312a19b/)
-
-* My email: stevenlofquist7@gmail.com
+* [Portfolio](https://stevenlof777.github.io/updated-portfolio/)
