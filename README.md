@@ -1,4 +1,4 @@
-<img src="./images/gh-banner.png" width=100%>
+<img src="./images/gh-banner.png" width=100% alt="Banner">
 
 ## Hi there 👋
 ---
