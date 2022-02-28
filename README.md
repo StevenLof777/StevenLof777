@@ -1,4 +1,4 @@
-<img src="./images/gh-banner.png" width=100% alt="Banner">
+![Gh banner](gh-banner.PNG)
 
 ## Hi there 👋
 ---
