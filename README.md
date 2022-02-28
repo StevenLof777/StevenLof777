@@ -3,7 +3,7 @@
 ## Hi there 👋
 ---
 
-My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC programmer with extensive experience in coding and making ideas come to life. Certificate from Georgia Tech Professional Education in full stack web technologies, including and not limited to JavaScript, CSS, HTML, and Node.js. Fascinated by this ever-evolving sector and creating products that people across the globe may use. My good attitude and willingness to be a team player, combined with sharp technical skills makes me a valuable asset to any engineering team.
+My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC programmer with extensive experience in coding and making ideas come to life.
 
 ---
 
