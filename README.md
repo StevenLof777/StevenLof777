@@ -35,4 +35,4 @@ My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC 
 
 ## 👀 How to Find me: 
 * [LinkedIn](https://www.linkedin.com/in/steven-lofquist-49312a19b/)
-* [Portfolio](https://stevenlof777.github.io/updated-portfolio/)
+* [Portfolio](https://steven-lofquist.herokuapp.com/)
