@@ -1,11 +1,11 @@
 ![Gh banner](gh-banner.PNG)
 
 ## Hi there 👋
----
+
 
 My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC programmer with extensive experience in coding and making ideas come to life.
 
----
+
 
 ## 👨‍💻 Here are my skills 
 
