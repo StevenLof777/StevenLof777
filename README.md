@@ -1,13 +1,13 @@
 ![Gh banner](gh-banner.PNG)
 
-## Hi there 👋
+### Hi there 👋
 
 
 My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC programmer with extensive experience in coding and making ideas come to life.
 
 
 
-## 👨‍💻 Here are my skills 
+### 👨‍💻 Here are my skills 
 
 <p>
 <img src=https://img.shields.io/badge/Code-JavaScipt-yellow/>
@@ -23,7 +23,7 @@ My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC 
 <p>
 
 ---
-## 🤓 About me
+### 🤓 About me
 * I'm currently working on my first solo full stack application using React and MySQL 
 * I'm really interested in visual libraries such as Three.js and P5.js
 * I really enjoyed working with the aztro API when me and my group made our app Dope Horoscope
