@@ -24,7 +24,6 @@ My name is Steven Lofquist (he/him), I am a Full stack developer and former CNC 
 
 ---
 ### 🤓 About me
-* I'm currently working on my first solo full stack application using React and MySQL 
 * I'm really interested in visual libraries such as Three.js and P5.js
 * I really enjoyed working with the aztro API when me and my group made our app Dope Horoscope
 
