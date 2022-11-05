@@ -1,4 +1,4 @@
-![Gh banner](gh-banner.PNG)
+<!-- ![Gh banner](gh-banner.PNG) -->
 
 ### Hi there 👋
 
