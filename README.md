@@ -7,7 +7,7 @@
 
 
 <h3>About Me</h3>
-<p>I am a Full stack developer and former CNC programmer with extensive experience in coding and making ideas come to life.</p>
+<p>I am a full stack developer and former cnc programmer with extensive experience in coding and making ideas come to life.</p>
 
 <h3>Front-end skills <img src="https://emojis.slackmojis.com/emojis/images/1643514120/792/computer.gif?1643514120" width="15"/></h3>
 
