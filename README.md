@@ -1,4 +1,4 @@
-<h1 align="center" > Hi, I'm Steven <img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336" width="30"/></h1>
+<h1 align="center" > Hi, I'm Steven <img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336" width="35"/></h1>
 
 
 <p align="center"> 
